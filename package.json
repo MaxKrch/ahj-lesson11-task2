@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaxKrch/ahj-lesson11-task2-backend.git"
+    "url": "git+https://github.com/MaxKrch/ahj-lesson11-task2.git"
   },
   "author": "MaxKrch",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MaxKrch/ahj-lesson11-task2-backend.git"
+    "url": "https://github.com/MaxKrch/ahj-lesson11-task2.git"
   },
-  "homepage": "https://github.com/MaxKrch/ahj-lesson11-task2-backend.git",
+  "homepage": "https://github.com/MaxKrch/ahj-lesson11-task2.git",
   "description": "",
   "devDependencies": {
     "@babel/cli": "^7.24.7",
