@@ -3,7 +3,7 @@ const OPTIONAL = {
   INIT_STATE: {
     messages: [],
   },
-  URL_SERVER: 'http://192.168.1.104:7070',
+  URL_SERVER: 'https://ahj-lesson11-task2-backend.vercel.app',
 };
 
 export { OPTIONAL };
