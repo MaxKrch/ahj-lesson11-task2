@@ -26,6 +26,7 @@ body {
 	object-fit: cover;
 	border-radius: 50%;
 	object-position: center;
+	font-size: 0.5rem;
 }
 
 .post-comments-button {
@@ -174,6 +175,7 @@ body {
 	height: 2rem;
 	grid-area: comment-avatar;
 	align-self: self-start;
+	font-size: 0.5rem;
 }
 
 .post-comment-nick {
